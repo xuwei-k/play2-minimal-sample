@@ -1,5 +1,5 @@
 lazy val sample = Project(
   "sample", file(".")
 ).enablePlugins(PlayScala).settings(
-  scalaVersion := "2.11.5"
+  scalaVersion := "2.11.6"
 )
